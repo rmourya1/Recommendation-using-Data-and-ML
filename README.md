@@ -1,4 +1,4 @@
-# Recommendation-using-Data-and-ML
+Recommendation systems using Data and Machine learning
 Recommendation systems based on statistical data and machine learning techniques
 
 * Simple Recommendation systems
