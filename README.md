@@ -1,5 +1,4 @@
-Recommendation systems using Data and Machine learning
-Recommendation systems based on statistical data and machine learning techniques
+Recommendation systems using statistical data and Machine learning techniques
 
 * Simple Recommendation systems
 o Popularity based (Based on user reviews)
