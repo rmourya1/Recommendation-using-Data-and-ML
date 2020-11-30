@@ -6,7 +6,9 @@ Recommendation systems using statistical data and Machine learning techniques
 	
 * Machine learning based Recommendation systems:
 	1. Collaborative filtering:
+	User preferences and behaviour are considered
 		1. Bank marketing recommendations using logistic regression (classification-based)
 		2. Movie recommendations using SVD (Model-based)
-	2. Content based recommendations			
+	2. Content based recommendations:
+	Recommendations are based on features and how similar are these features to the features of other items
 
